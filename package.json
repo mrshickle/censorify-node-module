@@ -1,0 +1,11 @@
+{
+  "name": "censorify",
+  "version": "1.0.0",
+  "description": "test app n1",
+  "main": "censorify.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
